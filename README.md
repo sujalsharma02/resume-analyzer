@@ -1,4 +1,4 @@
-
+Deployed Here ▶️ https://resume-analyzer-mauve.vercel.app/
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 

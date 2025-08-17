@@ -1,4 +1,6 @@
 Deployed Here ▶️ https://resume-analyzer-mauve.vercel.app/
+or
+▶️ https://puter.com/app/nith-resume
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
